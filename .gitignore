@@ -1,0 +1,7 @@
+*.json
+setup.py
+SAP_HANA_Automatic_Backup.egg-info/*
+*.docx
+__pycache__/*
+*.log
+cronValidate.py
